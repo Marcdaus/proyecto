@@ -1,0 +1,3 @@
+#!/bin/bash
+user=$(sudo cat /etc/group |grep docker| cut -d ":" -f4)
+echo "$USER"
