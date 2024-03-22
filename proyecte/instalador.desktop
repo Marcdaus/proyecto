@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Mi App
-Type=Application
-Exec=bash ./scripts/instalador.sh
-Terminal=false
-#Icon=./icon/icon.png --para cuando tenga un icono
